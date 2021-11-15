@@ -12,7 +12,7 @@
 	- Check if a state is attached to this controller.
 	- A representation of the runtime type of the object.
 
-2.  The parameter that controls the animation for snapping into position is the ** snappingCurve parameter of SnapPosition **.
+2.  The parameter that controls the animation for snapping into position is the **snappingCurve parameter of SnapPosition**.
 
 3. 
     - An advantage of InkWell: Has a splash effect/animation that is easily achieved and GestureDetector doesn't.
